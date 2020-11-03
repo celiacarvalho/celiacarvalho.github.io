@@ -46,7 +46,7 @@ html {
 body {
     background: #FFFFFF;
     color: #2c2c2c;
-    font-family: 'quicksand', Arial, sans-serif, 'Playfair Display', serif;
+    font-family: 'quicksand', 'Montserrat', sans-serif;
     font-size: 18px;
     line-height: 1.65;
     opacity: 0;
@@ -609,7 +609,7 @@ pre {
 }
 .thumbnail-description {
     color: #2c2c2c;
-    font-family: 'quicksand', Arial, sans-serif;
+    font-family: 'quicksand', 'Montserrat', sans-serif;
     font-size: 16px;
     margin: 0 auto;
     max-height: 5em;
@@ -641,7 +641,7 @@ div.image img { width: 100%; }
 }
 /*===== Project Content =====*/
 .project-meta {
-    font-family: 'quicksand', Arial, sans-serif;
+    font-family: 'quicksand', 'Montserrat', sans-serif;
     font-size: 14px;
     color: #BBBBBB;
     margin-top: 28px;
@@ -992,7 +992,7 @@ nav[role="navigation"] {
 /*=================================*/
 .site-footer {
     color: #2c2c2c;
-    font-family: 'Playfair Display', serif, Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
 
 }
 .site-footer p { margin: 0; font-size: 16px;display: inline;}
