@@ -264,6 +264,16 @@ pre {
 .languages ul li.active a {
     color: #2c2c2c;
 }
+
+.youtube {
+   display: block;
+   margin: 0 auto;
+}
+
+
+
+
+
 /*=================================*/
 /* Navigation Styles
 /*=================================*/
