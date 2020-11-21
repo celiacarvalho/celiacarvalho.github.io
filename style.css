@@ -137,8 +137,9 @@ small {
 
 .pic {
     float:left;
-    margin: -40px 30px 0px 0px;
+    margin: -40px 30px -40px 0px;
 }
+
 
 img {
     height: auto;
@@ -284,6 +285,8 @@ pre {
 .iframe {
    display: block;
    margin: 0 auto;
+   width: 1120px;
+   height: 630px;
 }
 
 
@@ -1053,6 +1056,14 @@ nav[role="navigation"] {
         float: left;
         width: 50%;
     }
+    
+   .iframe {
+   display: block;
+   margin: 0 auto;
+   width: 400px;
+   height: 200px;
+}
+    
     .projects-feed .project-content-container { padding-bottom: 50%; }
     .projects-feed .project:nth-child(2n) .thumb { float: right; }
     /* Thumb on the left */
