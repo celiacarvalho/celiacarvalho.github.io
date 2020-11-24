@@ -982,7 +982,7 @@ nav[role="navigation"] {
     clear: both;
 }
 .site-content figure{
-    margin:0;
+    margin: 0;
     padding: 0;
 }
 .site-footer { padding: 40px 20px; }
@@ -1318,7 +1318,7 @@ nav[role="navigation"] {
         margin-bottom: 200px;
     }
     .site-tagline {
-        margin-bottom: 100px;
+        margin-bottom: 0px;
         width: 75%;
     }
     .site-tagline p { 
