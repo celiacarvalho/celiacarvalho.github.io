@@ -285,6 +285,7 @@ pre {
 .iframe {
    margin: 30px auto 30px auto;
    text-align: center;
+    display: block;
 }
 
 
