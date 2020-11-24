@@ -285,7 +285,6 @@ pre {
 .iframe {
    margin: 30px auto 30px auto;
    text-align: center;
-    display: block;
 }
 
 
@@ -1057,7 +1056,7 @@ nav[role="navigation"] {
     }
     
 .video-responsive{overflow:hidden;padding-bottom:56.25%;position:relative;height:0;margin:0px 0px}
-.video-responsive iframe{left:0;top:0;height:100%;width:100%;position:absolute;} 
+.video-responsive iframe{left:0;top:0;height:100%;width:100%;position:relative;} 
       
     .projects-feed .project-content-container { padding-bottom: 50%; }
     .projects-feed .project:nth-child(2n) .thumb { float: right; }
